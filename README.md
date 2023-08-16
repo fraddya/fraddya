@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Fraddy</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesha699" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraddya&label=Profile%20views&color=0e75b6&style=flat" alt="fraddya" /> </p>
 
 - 🔭 I’m currently working on **Creating New Five M Framwork , new 3D webdesining and the userfriendly pos system**
 
