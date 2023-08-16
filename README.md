@@ -1,29 +1,3 @@
-                                                                                                                                                                    
-                                                                                                                                                                    
-FFFFFFFFFFFFFFFFFFFFFFRRRRRRRRRRRRRRRRR                  AAA               DDDDDDDDDDDDD      DDDDDDDDDDDDD       YYYYYYY       YYYYYYY           AAA               
-F::::::::::::::::::::FR::::::::::::::::R                A:::A              D::::::::::::DDD   D::::::::::::DDD    Y:::::Y       Y:::::Y          A:::A              
-F::::::::::::::::::::FR::::::RRRRRR:::::R              A:::::A             D:::::::::::::::DD D:::::::::::::::DD  Y:::::Y       Y:::::Y         A:::::A             
-FF::::::FFFFFFFFF::::FRR:::::R     R:::::R            A:::::::A            DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D Y::::::Y     Y::::::Y        A:::::::A            
-  F:::::F       FFFFFF  R::::R     R:::::R           A:::::::::A             D:::::D    D:::::D D:::::D    D:::::DYYY:::::Y   Y:::::YYY       A:::::::::A           
-  F:::::F               R::::R     R:::::R          A:::::A:::::A            D:::::D     D:::::DD:::::D     D:::::D  Y:::::Y Y:::::Y         A:::::A:::::A          
-  F::::::FFFFFFFFFF     R::::RRRRRR:::::R          A:::::A A:::::A           D:::::D     D:::::DD:::::D     D:::::D   Y:::::Y:::::Y         A:::::A A:::::A         
-  F:::::::::::::::F     R:::::::::::::RR          A:::::A   A:::::A          D:::::D     D:::::DD:::::D     D:::::D    Y:::::::::Y         A:::::A   A:::::A        
-  F:::::::::::::::F     R::::RRRRRR:::::R        A:::::A     A:::::A         D:::::D     D:::::DD:::::D     D:::::D     Y:::::::Y         A:::::A     A:::::A       
-  F::::::FFFFFFFFFF     R::::R     R:::::R      A:::::AAAAAAAAA:::::A        D:::::D     D:::::DD:::::D     D:::::D      Y:::::Y         A:::::AAAAAAAAA:::::A      
-  F:::::F               R::::R     R:::::R     A:::::::::::::::::::::A       D:::::D     D:::::DD:::::D     D:::::D      Y:::::Y        A:::::::::::::::::::::A     
-  F:::::F               R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A      D:::::D    D:::::D D:::::D    D:::::D       Y:::::Y       A:::::AAAAAAAAAAAAA:::::A    
-FF:::::::FF           RR:::::R     R:::::R   A:::::A             A:::::A   DDD:::::DDDDD:::::DDDD:::::DDDDD:::::D        Y:::::Y      A:::::A             A:::::A   
-F::::::::FF           R::::::R     R:::::R  A:::::A               A:::::A  D:::::::::::::::DD D:::::::::::::::DD      YYYY:::::YYYY  A:::::A               A:::::A  
-F::::::::FF           R::::::R     R:::::R A:::::A                 A:::::A D::::::::::::DDD   D::::::::::::DDD        Y:::::::::::Y A:::::A                 A:::::A 
-FFFFFFFFFFF           RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAADDDDDDDDDDDDD      DDDDDDDDDDDDD           YYYYYYYYYYYYYAAAAAAA                   AAAAAAA
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
-                                                                                                                                                                    
-
 <h1 align="center">Hi there 👋 I'm Fraddy</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesha699&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesha699" /> </p>
