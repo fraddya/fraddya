@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nadeesha ruwandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeesha ruwandima" height="30" width="40" /></a>
-<a href="https://fb.com/nadeesha ruwandima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadeesha ruwandima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sisitha liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sisitha liyanage" height="30" width="40" /></a>
+<a href="https://fb.com/sisitha liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sisitha liyanage" height="30" width="40" /></a>
 <a href="https://instagram.com/nadeesha_xxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadeesha_xxn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/n4diy4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="n4diy4" height="30" width="40" /></a>
 </p>
