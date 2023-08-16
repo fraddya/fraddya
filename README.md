@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![FraddyTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraddya&show_icons=true&theme=radical)
+<!--![FraddyTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraddya&show_icons=true&theme=radical)-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraddya)](https://github.com/fraddya/github-readme-stats)
