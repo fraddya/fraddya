@@ -13,6 +13,25 @@
 ## Profile Views
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraddya&label=Profile%20views&color=0e75b6&style=flat" alt="fraddya" /> </p>
+<table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=fraddya&label=Profile%20views&color=0e75b6&style=flat" alt="fraddya" /> </a>
+      </td>
+    </tr>
+  </table>
 
 - 🔭 I’m currently working on **Creating New Five M Framwork , new 3D webdesining and the userfriendly pos system**
 
