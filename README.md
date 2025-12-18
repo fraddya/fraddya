@@ -36,7 +36,7 @@
 
 - 📫 How to reach me **fraddyappolo@gmail.com**
 
--⚡ If you want to any pos system feel free to contact me!!!!!
+-⚡ If you want to any ERP system feel free to contact me!!!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
